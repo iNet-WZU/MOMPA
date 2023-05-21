@@ -1,7 +1,7 @@
 % Developed in MATLAB R2019b
 % Source codes demo version 1.0
 % _____________________________________________________
-%  Author, inventor and programmer of IEGJO: Long Chen,
+%  Author, inventor and programmer of MOMPA: Long Chen,
 %  Email: chenlong@zjnu.edu.cn
 %  Co-authors:Xuebing Cai, Kezhong Jin, Zhenzhou Tang
 % _____________________________________________________
